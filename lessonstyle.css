@@ -1,0 +1,10 @@
+body {
+    background: #a8a3be;
+  }
+summary {
+    color: antiquewhite; 
+  }
+  header {
+    display: flex;
+    justify-content: center;
+  }
