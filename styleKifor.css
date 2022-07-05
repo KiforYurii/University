@@ -1,0 +1,17 @@
+body {
+    background: rgba(225, 183, 137, 0.733);
+    font-family: 'Montserrat', sans-serif;
+  }
+.textStyle {
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgb(133, 123, 106);
+    padding: 5px;
+
+}
+.tablica {
+    background-color: rgb(193, 193, 185);
+   display: flex;
+   justify-content: center;
+   flex-basis: 340px;height: auto;
+}
